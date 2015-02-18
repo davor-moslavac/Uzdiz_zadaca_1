@@ -1,0 +1,728 @@
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:null
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:139 s
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:null
+M-45 id:9 rezultat:null
+M-45 id:10 rezultat:null
+M-ostali id:11 rezultat:665 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:null
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:null
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:null
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:null
+M-18 id:3 rezultat:232 s
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:948 s
+M-35 id:7 rezultat:957 s
+M-35 id:8 rezultat:141 s
+M-45 id:9 rezultat:536 s
+M-45 id:10 rezultat:983 s
+M-ostali id:11 rezultat:665 s
+M-ostali id:12 rezultat:464 s
+Ž-14 id:13 rezultat:927 s
+Ž-14 id:14 rezultat:884 s
+Ž-18 id:15 rezultat:null
+Ž-18 id:16 rezultat:674 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:645 s
+Ž-35 id:19 rezultat:621 s
+Ž-35 id:20 rezultat:null
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:diskvalificiran
+Ž-ostale id:24 rezultat:137 s
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:630 s
+M-18 id:3 rezultat:891 s
+M-18 id:4 rezultat:diskvalificiran
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:580 s
+M-35 id:7 rezultat:957 s
+M-35 id:8 rezultat:141 s
+M-45 id:9 rezultat:536 s
+M-45 id:10 rezultat:983 s
+M-ostali id:11 rezultat:898 s
+M-ostali id:12 rezultat:464 s
+Ž-14 id:13 rezultat:927 s
+Ž-14 id:14 rezultat:607 s
+Ž-18 id:15 rezultat:602 s
+Ž-18 id:16 rezultat:674 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:645 s
+Ž-35 id:19 rezultat:621 s
+Ž-35 id:20 rezultat:null
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:diskvalificiran
+Ž-ostale id:24 rezultat:137 s
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:451 s
+M-18 id:3 rezultat:842 s
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:null
+M-35 id:7 rezultat:259 s
+M-35 id:8 rezultat:758 s
+M-45 id:9 rezultat:null
+M-45 id:10 rezultat:166 s
+M-ostali id:11 rezultat:703 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:688 s
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:612 s
+Ž-35 id:20 rezultat:null
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:289 s
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:451 s
+M-18 id:3 rezultat:842 s
+M-18 id:4 rezultat:848 s
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:null
+M-35 id:7 rezultat:259 s
+M-35 id:8 rezultat:1000 s
+M-45 id:9 rezultat:956 s
+M-45 id:10 rezultat:166 s
+M-ostali id:11 rezultat:812 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:815 s
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:688 s
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:diskvalificiran
+Ž-35 id:19 rezultat:612 s
+Ž-35 id:20 rezultat:731 s
+Ž-45 id:21 rezultat:681 s
+Ž-45 id:22 rezultat:437 s
+Ž-ostale id:23 rezultat:237 s
+Ž-ostale id:24 rezultat:779 s
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:451 s
+M-18 id:3 rezultat:842 s
+M-18 id:4 rezultat:848 s
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:null
+M-35 id:7 rezultat:675 s
+M-35 id:8 rezultat:1000 s
+M-45 id:9 rezultat:956 s
+M-45 id:10 rezultat:166 s
+M-ostali id:11 rezultat:812 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:815 s
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:688 s
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:diskvalificiran
+Ž-35 id:19 rezultat:612 s
+Ž-35 id:20 rezultat:731 s
+Ž-45 id:21 rezultat:681 s
+Ž-45 id:22 rezultat:437 s
+Ž-ostale id:23 rezultat:237 s
+Ž-ostale id:24 rezultat:779 s
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:null
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:433 s
+M-35 id:7 rezultat:345 s
+M-35 id:8 rezultat:null
+M-45 id:9 rezultat:106 s
+M-45 id:10 rezultat:diskvalificiran
+M-ostali id:11 rezultat:468 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:169 s
+Ž-18 id:16 rezultat:856 s
+Ž-25 id:17 rezultat:736 s
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:101 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:588 s
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:diskvalificiran
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:null
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:433 s
+M-35 id:7 rezultat:345 s
+M-35 id:8 rezultat:289 s
+M-45 id:9 rezultat:106 s
+M-45 id:10 rezultat:diskvalificiran
+M-ostali id:11 rezultat:468 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:169 s
+Ž-18 id:16 rezultat:856 s
+Ž-25 id:17 rezultat:349 s
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:101 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:588 s
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:diskvalificiran
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:945 s
+M-14 id:2 rezultat:398 s
+M-18 id:3 rezultat:829 s
+M-18 id:4 rezultat:559 s
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:433 s
+M-35 id:7 rezultat:376 s
+M-35 id:8 rezultat:289 s
+M-45 id:9 rezultat:668 s
+M-45 id:10 rezultat:diskvalificiran
+M-ostali id:11 rezultat:960 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:798 s
+Ž-18 id:15 rezultat:169 s
+Ž-18 id:16 rezultat:856 s
+Ž-25 id:17 rezultat:206 s
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:645 s
+Ž-35 id:20 rezultat:868 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:588 s
+Ž-ostale id:23 rezultat:620 s
+Ž-ostale id:24 rezultat:311 s
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:175 s
+M-14 id:2 rezultat:null
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:626 s
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:null
+M-45 id:9 rezultat:960 s
+M-45 id:10 rezultat:833 s
+M-ostali id:11 rezultat:120 s
+M-ostali id:12 rezultat:268 s
+Ž-14 id:13 rezultat:diskvalificiran
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:410 s
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:542 s
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:322 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:879 s
+Ž-ostale id:24 rezultat:null
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:276 s
+M-14 id:2 rezultat:335 s
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:626 s
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:790 s
+M-45 id:9 rezultat:550 s
+M-45 id:10 rezultat:833 s
+M-ostali id:11 rezultat:120 s
+M-ostali id:12 rezultat:268 s
+Ž-14 id:13 rezultat:243 s
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:217 s
+Ž-18 id:16 rezultat:413 s
+Ž-25 id:17 rezultat:650 s
+Ž-25 id:18 rezultat:542 s
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:132 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:diskvalificiran
+Ž-ostale id:23 rezultat:792 s
+Ž-ostale id:24 rezultat:523 s
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:276 s
+M-14 id:2 rezultat:657 s
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:325 s
+M-25 id:6 rezultat:626 s
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:219 s
+M-45 id:9 rezultat:550 s
+M-45 id:10 rezultat:694 s
+M-ostali id:11 rezultat:120 s
+M-ostali id:12 rezultat:374 s
+Ž-14 id:13 rezultat:693 s
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:217 s
+Ž-18 id:16 rezultat:413 s
+Ž-25 id:17 rezultat:650 s
+Ž-25 id:18 rezultat:920 s
+Ž-35 id:19 rezultat:971 s
+Ž-35 id:20 rezultat:132 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:diskvalificiran
+Ž-ostale id:23 rezultat:792 s
+Ž-ostale id:24 rezultat:567 s
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:742 s
+M-18 id:3 rezultat:621 s
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:459 s
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:182 s
+M-45 id:9 rezultat:504 s
+M-45 id:10 rezultat:388 s
+M-ostali id:11 rezultat:984 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:477 s
+Ž-18 id:15 rezultat:728 s
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:331 s
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:578 s
+Ž-45 id:21 rezultat:diskvalificiran
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:781 s
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:742 s
+M-18 id:3 rezultat:621 s
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:459 s
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:112 s
+M-45 id:9 rezultat:504 s
+M-45 id:10 rezultat:388 s
+M-ostali id:11 rezultat:984 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:456 s
+Ž-18 id:15 rezultat:728 s
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:331 s
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:578 s
+Ž-45 id:21 rezultat:diskvalificiran
+Ž-45 id:22 rezultat:905 s
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:781 s
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:476 s
+M-14 id:2 rezultat:742 s
+M-18 id:3 rezultat:621 s
+M-18 id:4 rezultat:512 s
+M-25 id:5 rezultat:508 s
+M-25 id:6 rezultat:979 s
+M-35 id:7 rezultat:503 s
+M-35 id:8 rezultat:756 s
+M-45 id:9 rezultat:504 s
+M-45 id:10 rezultat:388 s
+M-ostali id:11 rezultat:788 s
+M-ostali id:12 rezultat:422 s
+Ž-14 id:13 rezultat:214 s
+Ž-14 id:14 rezultat:505 s
+Ž-18 id:15 rezultat:diskvalificiran
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:331 s
+Ž-35 id:19 rezultat:518 s
+Ž-35 id:20 rezultat:578 s
+Ž-45 id:21 rezultat:562 s
+Ž-45 id:22 rezultat:295 s
+Ž-ostale id:23 rezultat:158 s
+Ž-ostale id:24 rezultat:781 s
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:552 s
+M-14 id:2 rezultat:null
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:869 s
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:648 s
+M-35 id:7 rezultat:406 s
+M-35 id:8 rezultat:154 s
+M-45 id:9 rezultat:null
+M-45 id:10 rezultat:null
+M-ostali id:11 rezultat:166 s
+M-ostali id:12 rezultat:387 s
+Ž-14 id:13 rezultat:diskvalificiran
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:null
+Ž-18 id:16 rezultat:593 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:diskvalificiran
+Ž-35 id:20 rezultat:null
+Ž-45 id:21 rezultat:939 s
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:null
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:null
+M-18 id:3 rezultat:952 s
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:null
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:null
+M-45 id:9 rezultat:diskvalificiran
+M-45 id:10 rezultat:null
+M-ostali id:11 rezultat:null
+M-ostali id:12 rezultat:439 s
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:null
+Ž-18 id:16 rezultat:143 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:474 s
+Ž-45 id:21 rezultat:386 s
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:null
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:928 s
+M-14 id:2 rezultat:948 s
+M-18 id:3 rezultat:952 s
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:null
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:null
+M-45 id:9 rezultat:567 s
+M-45 id:10 rezultat:null
+M-ostali id:11 rezultat:null
+M-ostali id:12 rezultat:439 s
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:490 s
+Ž-18 id:15 rezultat:null
+Ž-18 id:16 rezultat:745 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:933 s
+Ž-35 id:20 rezultat:474 s
+Ž-45 id:21 rezultat:420 s
+Ž-45 id:22 rezultat:956 s
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:null
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:928 s
+M-14 id:2 rezultat:449 s
+M-18 id:3 rezultat:952 s
+M-18 id:4 rezultat:497 s
+M-25 id:5 rezultat:702 s
+M-25 id:6 rezultat:787 s
+M-35 id:7 rezultat:767 s
+M-35 id:8 rezultat:682 s
+M-45 id:9 rezultat:567 s
+M-45 id:10 rezultat:824 s
+M-ostali id:11 rezultat:null
+M-ostali id:12 rezultat:207 s
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:422 s
+Ž-18 id:15 rezultat:878 s
+Ž-18 id:16 rezultat:diskvalificiran
+Ž-25 id:17 rezultat:728 s
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:472 s
+Ž-35 id:20 rezultat:474 s
+Ž-45 id:21 rezultat:420 s
+Ž-45 id:22 rezultat:925 s
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:935 s
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:219 s
+M-18 id:3 rezultat:406 s
+M-18 id:4 rezultat:225 s
+M-25 id:5 rezultat:null
+M-25 id:6 rezultat:null
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:149 s
+M-45 id:9 rezultat:616 s
+M-45 id:10 rezultat:840 s
+M-ostali id:11 rezultat:null
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:118 s
+Ž-14 id:14 rezultat:112 s
+Ž-18 id:15 rezultat:null
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:991 s
+Ž-35 id:19 rezultat:null
+Ž-35 id:20 rezultat:450 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:972 s
+Ž-ostale id:24 rezultat:821 s
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:219 s
+M-18 id:3 rezultat:885 s
+M-18 id:4 rezultat:118 s
+M-25 id:5 rezultat:759 s
+M-25 id:6 rezultat:diskvalificiran
+M-35 id:7 rezultat:diskvalificiran
+M-35 id:8 rezultat:580 s
+M-45 id:9 rezultat:616 s
+M-45 id:10 rezultat:506 s
+M-ostali id:11 rezultat:null
+M-ostali id:12 rezultat:414 s
+Ž-14 id:13 rezultat:606 s
+Ž-14 id:14 rezultat:961 s
+Ž-18 id:15 rezultat:408 s
+Ž-18 id:16 rezultat:834 s
+Ž-25 id:17 rezultat:564 s
+Ž-25 id:18 rezultat:991 s
+Ž-35 id:19 rezultat:357 s
+Ž-35 id:20 rezultat:706 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:846 s
+Ž-ostale id:24 rezultat:830 s
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:219 s
+M-18 id:3 rezultat:885 s
+M-18 id:4 rezultat:118 s
+M-25 id:5 rezultat:759 s
+M-25 id:6 rezultat:diskvalificiran
+M-35 id:7 rezultat:diskvalificiran
+M-35 id:8 rezultat:580 s
+M-45 id:9 rezultat:616 s
+M-45 id:10 rezultat:506 s
+M-ostali id:11 rezultat:null
+M-ostali id:12 rezultat:414 s
+Ž-14 id:13 rezultat:606 s
+Ž-14 id:14 rezultat:961 s
+Ž-18 id:15 rezultat:408 s
+Ž-18 id:16 rezultat:834 s
+Ž-25 id:17 rezultat:564 s
+Ž-25 id:18 rezultat:991 s
+Ž-35 id:19 rezultat:357 s
+Ž-35 id:20 rezultat:706 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:846 s
+Ž-ostale id:24 rezultat:830 s
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:251 s
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:310 s
+M-25 id:6 rezultat:845 s
+M-35 id:7 rezultat:null
+M-35 id:8 rezultat:null
+M-45 id:9 rezultat:null
+M-45 id:10 rezultat:null
+M-ostali id:11 rezultat:null
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:null
+Ž-18 id:16 rezultat:null
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:109 s
+Ž-35 id:20 rezultat:919 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:821 s
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:873 s
+M-18 id:3 rezultat:918 s
+M-18 id:4 rezultat:null
+M-25 id:5 rezultat:310 s
+M-25 id:6 rezultat:273 s
+M-35 id:7 rezultat:824 s
+M-35 id:8 rezultat:null
+M-45 id:9 rezultat:null
+M-45 id:10 rezultat:479 s
+M-ostali id:11 rezultat:551 s
+M-ostali id:12 rezultat:null
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:null
+Ž-18 id:15 rezultat:756 s
+Ž-18 id:16 rezultat:961 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:109 s
+Ž-35 id:20 rezultat:693 s
+Ž-45 id:21 rezultat:null
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:diskvalificiran
+Ž-ostale id:24 rezultat:821 s
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:153 s
+M-14 id:2 rezultat:120 s
+M-18 id:3 rezultat:918 s
+M-18 id:4 rezultat:963 s
+M-25 id:5 rezultat:705 s
+M-25 id:6 rezultat:331 s
+M-35 id:7 rezultat:142 s
+M-35 id:8 rezultat:null
+M-45 id:9 rezultat:null
+M-45 id:10 rezultat:479 s
+M-ostali id:11 rezultat:262 s
+M-ostali id:12 rezultat:220 s
+Ž-14 id:13 rezultat:414 s
+Ž-14 id:14 rezultat:969 s
+Ž-18 id:15 rezultat:756 s
+Ž-18 id:16 rezultat:961 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:diskvalificiran
+Ž-35 id:19 rezultat:793 s
+Ž-35 id:20 rezultat:693 s
+Ž-45 id:21 rezultat:957 s
+Ž-45 id:22 rezultat:428 s
+Ž-ostale id:23 rezultat:644 s
+Ž-ostale id:24 rezultat:733 s
+
+Rezultati utrke broj 1:
+M-14 id:1 rezultat:null
+M-14 id:2 rezultat:209 s
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:diskvalificiran
+M-25 id:5 rezultat:569 s
+M-25 id:6 rezultat:null
+M-35 id:7 rezultat:diskvalificiran
+M-35 id:8 rezultat:155 s
+M-45 id:9 rezultat:468 s
+M-45 id:10 rezultat:883 s
+M-ostali id:11 rezultat:968 s
+M-ostali id:12 rezultat:802 s
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:724 s
+Ž-18 id:15 rezultat:892 s
+Ž-18 id:16 rezultat:213 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:280 s
+Ž-35 id:20 rezultat:null
+Ž-45 id:21 rezultat:678 s
+Ž-45 id:22 rezultat:null
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:null
+
+Rezultati utrke broj 2:
+M-14 id:1 rezultat:902 s
+M-14 id:2 rezultat:209 s
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:diskvalificiran
+M-25 id:5 rezultat:569 s
+M-25 id:6 rezultat:224 s
+M-35 id:7 rezultat:diskvalificiran
+M-35 id:8 rezultat:155 s
+M-45 id:9 rezultat:diskvalificiran
+M-45 id:10 rezultat:940 s
+M-ostali id:11 rezultat:552 s
+M-ostali id:12 rezultat:906 s
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:477 s
+Ž-18 id:15 rezultat:892 s
+Ž-18 id:16 rezultat:187 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:diskvalificiran
+Ž-35 id:20 rezultat:null
+Ž-45 id:21 rezultat:678 s
+Ž-45 id:22 rezultat:diskvalificiran
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:470 s
+
+Rezultati utrke broj 3:
+M-14 id:1 rezultat:902 s
+M-14 id:2 rezultat:209 s
+M-18 id:3 rezultat:null
+M-18 id:4 rezultat:diskvalificiran
+M-25 id:5 rezultat:569 s
+M-25 id:6 rezultat:224 s
+M-35 id:7 rezultat:diskvalificiran
+M-35 id:8 rezultat:155 s
+M-45 id:9 rezultat:diskvalificiran
+M-45 id:10 rezultat:940 s
+M-ostali id:11 rezultat:552 s
+M-ostali id:12 rezultat:906 s
+Ž-14 id:13 rezultat:null
+Ž-14 id:14 rezultat:477 s
+Ž-18 id:15 rezultat:892 s
+Ž-18 id:16 rezultat:187 s
+Ž-25 id:17 rezultat:null
+Ž-25 id:18 rezultat:null
+Ž-35 id:19 rezultat:diskvalificiran
+Ž-35 id:20 rezultat:null
+Ž-45 id:21 rezultat:678 s
+Ž-45 id:22 rezultat:diskvalificiran
+Ž-ostale id:23 rezultat:null
+Ž-ostale id:24 rezultat:470 s
